@@ -22,6 +22,6 @@ Iliomar Rodriguez Ramos y Juvenal Bassa
 </div>
 
 <div style="text-align: center; margin-top: 1.5em; display: flex; justify-content: center; align-items: center; gap: 3em;">
-  <img src="content/figures/expandAI_logo.png" alt="ExpandAI Logo" style="height: 50px;">
-  <img src="content/figures/rum_logo.png" alt="UPRM Logo" style="height: 50px;">
+  <img src="content/figures/expandAI_logo.png" alt="ExpandAI Logo" style="height: 30px;">
+  <img src="content/figures/rum_logo.png" alt="UPRM Logo" style="height: 30px;">
 </div>
