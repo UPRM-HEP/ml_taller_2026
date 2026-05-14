@@ -7,7 +7,9 @@ site:
 ---
 
 <div style="text-align: center">
+
 # Bienvenidos al taller de Machine Learning!
+
 </div>
 
 ```{figure} content/figures/ML_logo.png
