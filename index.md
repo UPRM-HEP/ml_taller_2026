@@ -21,9 +21,13 @@ _Este taller ofrece una introducción a los principios de Machine Learning. El m
 Iliomar Rodriguez Ramos y Juvenal Bassa
 </div>
 
-<div style="text-align: center; margin-top: 1.5em;">
-  <span>
-    <img src="content/figures/expandAI_logo.png" alt="ExpandAI Logo" width="120" style="margin-right: 40px;">
-    <img src="content/figures/rum_logo.png" alt="UPRM Logo" width="120">
-  </span>
-</div>
+<table style="margin: 1.5em auto; border: none;">
+  <tr>
+    <td style="border: none; padding-right: 40px;">
+      <img src="content/figures/expandAI_logo.png" alt="ExpandAI Logo" width="120">
+    </td>
+    <td style="border: none;">
+      <img src="content/figures/rum_logo.png" alt="UPRM Logo" width="120">
+    </td>
+  </tr>
+</table>
